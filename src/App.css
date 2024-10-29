@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+.btn{
+  width: 200px;
+  height: 70px;
+  font-size: larger;
+}
+
+input{
+  padding: 20px;
+  border-radius: 10px;
+  border-style: none;
+}
+
+.txt{
+  color: green;
+}
